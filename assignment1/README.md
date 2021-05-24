@@ -1,6 +1,6 @@
 # Maintain Efficient Process Utilization on Windows
 
 Tasks:
-Collect process information using the Task Viewer.
-Terminate a specific process using Windows PowerShell.
+Collect process information using the Task Viewer. <br/>
+Terminate a specific process using Windows PowerShell. <br/>
 Terminate multiple processes using Windows PowerShell.
