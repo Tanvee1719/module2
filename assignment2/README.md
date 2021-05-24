@@ -1,7 +1,7 @@
 # Using Logs to Help You Track Down an Issue in Windows
 
-Tasks:
-Updating software that's out-of-date
-Finding and deleting files
-Modifying file permissions
+Tasks: </br>
+Updating software that's out-of-date</br>
+Finding and deleting files</br>
+Modifying file permissions</br>
 Finding and terminating specific processes
